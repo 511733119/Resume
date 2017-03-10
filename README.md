@@ -3,8 +3,9 @@
 ###应聘职位：Java开发实习生
 ---
 
-###联系方式
----
+###个人信息
+----
+- 性别：男
 - 电话: 15626401344
 - Email: <chjcal@outlook.com>
 - Github: https://github.com/511733119
@@ -21,7 +22,7 @@
 - 熟悉JSP / Servlet / Json / XML。
 - 熟练使用Spring / Struts2 / Hibernate等开源框架。
 - 熟练使用EasyUI / Bootstrap进行界面设计。
-- 熟悉MySQL数据库。  
+- 熟悉MySQL/MSSQL数据库。  
 - 熟悉项目管理Maven / 版本控制Git / 日志管理Log4j / 单元测试JUnit。  
 - 了解Linux基本命令行操作。
 
